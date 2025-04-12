@@ -1,4 +1,4 @@
-# QueryNLP 🔍
+# Query Mind 🔍
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Next.js](https://img.shields.io/badge/Next.js-13.4+-000000?style=flat&logo=next.js&logoColor=white)](https://nextjs.org/)
@@ -42,10 +42,10 @@ A powerful database query interface with natural language processing capabilitie
 
 ```bash
 # Clone the repository
-git clone https://github.com/TharaneshA/querymind.git
+git clone https://github.com/TharaneshA/query-mind.git
 
 # Navigate to the project directory
-cd querymind
+cd query-mind
 
 # Install dependencies
 npm install
